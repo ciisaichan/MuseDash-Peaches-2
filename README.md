@@ -9,7 +9,7 @@
 - [mush_dash_peaches2](https://github.com/ciisaichan/MuseDash-Peaches-2/tree/main/mush_dash_peaches2 "mush_dash_peaches2") - Arduino单片机源代码
 - [pcb_gerber](https://github.com/ciisaichan/MuseDash-Peaches-2/tree/main/pcb_gerber "pcb_gerber") - PCB生产文件
 - [shell](https://github.com/ciisaichan/MuseDash-Peaches-2/tree/main/shell "shell") - 用于外壳切割的矢量图片
-- [BOM.xlsx](https://github.com/ciisaichan/MuseDash-Peaches-2/blob/main/BOM.xlsx "BOM.xlsx") - 配件配单表
+- [BOM.xlsx](https://github.com/ciisaichan/MuseDash-Peaches-2/blob/main/BOM.xlsx "BOM.xlsx") - 配件配单表以及原件对应的焊盘位置
 - [schematic.pdf](https://github.com/ciisaichan/MuseDash-Peaches-2/blob/main/schematic.pdf "schematic.pdf") - 电路原理图
 
 ### PCB预览图/原理图
