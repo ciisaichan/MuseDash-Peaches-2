@@ -32,4 +32,4 @@
 1. 此版本因为涉及贴片焊接，所以需要工具以及焊接技能，可以使用PCB厂家提供的SMT贴片服务，这样到手就是成品，比较特殊的零件就是 "4p免螺丝接线端子" 需要自己单独购买和焊接。
 2. 硬件部分制作完成后需要对单片机烧写bootloader才可以用Arduino IDE编程。[bootloader烧写教程](https://blog.csdn.net/sysjtlwx/article/details/73824903 "bootloader烧写教程")
 3. bootloader烧写完成后将开发板通过USB连接电脑，打开Arduino IDE并打开源代码，选择开发板为 "Arduino Leonardo"并选择开发板对应端口，点击 "上传" 即可。（如果编译错误请安装 "CapacitiveSensor" 库）
-4. 到这里就算大功告成了w
+4. 开发板固定孔以及外壳固定孔的直径为2.5mm，如需要请选择2.5mm直径的螺丝
