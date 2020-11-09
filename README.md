@@ -12,7 +12,7 @@
 - [schematic.pdf](https://github.com/ciisaichan/MuseDash-Peaches-2/blob/main/schematic.pdf "schematic.pdf") - 电路原理图
 
 ### PCB预览图/原理图
-![PCB预览图](https://raw.githubusercontent.com/ciisaichan/MuseDash-Peaches-2/main/images/pcb.jpg)
+![PCB预览图](https://raw.githubusercontent.com/ciisaichan/MuseDash-Peaches-2/main/images/pcb2.jpg)
 ![电路原理图](https://raw.githubusercontent.com/ciisaichan/MuseDash-Peaches-2/main/images/sch.jpg)
 
 ### 功能
